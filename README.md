@@ -34,3 +34,4 @@ Beskriv hur går vi tillväga för att ignorera vissa filer eller kataloger att 
 Efter det ska en README.md-fil med Markdown skapas och en kort beskrivning om uppgiften ska skrivas och lämnas in. 
 
 För att klona ett repository till ens dator via terminalen eller komandoprompten ska ni byta arbetskatalogen till där du vill ha det klonade repository. Sen kopieras URL:en och komandot git clone används. Det ska alltså se ut så här: $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY. 
+https://github.com/edlu2100/Webbutveckling2-Mom1
